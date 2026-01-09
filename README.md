@@ -121,4 +121,4 @@ VITE_API_BASE_URL=http://localhost:5000
 
 ## Автор
 
-GitHub: [https://github.com/Olzhik06
+GitHub: [https://github.com/Olzhik06]
