@@ -25,7 +25,6 @@ cd server
 npm install
 npm run dev
 Проверка:
-
 http://localhost:5000/health
 Локальный запуск Frontend
 cd client
