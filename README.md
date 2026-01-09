@@ -121,5 +121,4 @@ VITE_API_BASE_URL=http://localhost:5000
 
 ## Автор
 
-**Nurislam**
-GitHub: [https://github.com/Nurislam841](https://github.com/Nurislam841)
+GitHub: [https://github.com/Olzhik06
